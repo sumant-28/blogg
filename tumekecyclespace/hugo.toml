@@ -1,4 +1,4 @@
-baseURL = 'https://tumekecyclespace.github.io'
+baseURL = 'https://tumekecyclespace.github.io/'
 languageCode = 'en-us'
 title = 'Tumeke Cycle Space'
 theme = 'magnolia-free-hugo-theme'
