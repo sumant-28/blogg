@@ -1,0 +1,57 @@
+baseURL = 'https://tumekecyclespace.github.io'
+languageCode = 'en-us'
+title = 'Tumeke Cycle Space'
+theme = 'magnolia-free-hugo-theme'
+
+[params]
+  subtitle = "Community bike workshop and social space"
+
+  [params.homepage]
+    preTitle = "Welcome to"
+    title = "Tumeke Cycle Space"
+    intro = "A community bike workshop where you can learn to fix bikes, buy affordable second-hand bikes, and connect with other cycling enthusiasts."
+    blogTitle = "Latest Updates"
+    blogButton = "View All Posts"
+
+  [params.footer]
+    [params.footer.navigate]
+      heading = "Quick Links"
+    
+    [params.footer.contacts]
+      enabled = true
+      heading = "Contact"
+      address = "Auckland, New Zealand"
+      mail = "info@tumekecyclespace.org"
+      phone = ""
+
+  [params.socials]
+    enabled = false
+
+  [params.schedules]
+    enabledFooter = false
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = -1
+  [[menu.main]]
+    name = "Bikes for Sale"
+    url = "/bikes-for-sale/"
+    weight = 1
+  [[menu.main]]
+    name = "FAQ"
+    url = "/faq/"
+    weight = 2
+  [[menu.main]]
+    name = "Events"
+    url = "/upcoming-events/"
+    weight = 3
+  [[menu.main]]
+    name = "Volunteer"
+    url = "/volunteering/"
+    weight = 4
+  [[menu.main]]
+    name = "Newsletter"
+    url = "/newsletter/"
+    weight = 5

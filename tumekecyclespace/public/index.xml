@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tumeke Cycle Space</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Tumeke Cycle Space</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bikes for Sale</title>
+      <link>http://localhost:1313/bikes-for-sale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bikes-for-sale/</guid>
+      <description>&lt;h1 id=&#34;bikes-for-sale&#34;&gt;Bikes for Sale&lt;/h1&gt;&#xA;&lt;p&gt;We always have a wide range of styles and sizes of bikes for sale. All bikes we sell have been thoroughly safety checked to a comprehensive check list, lubed and serviced at Tumeke Cycle Space, and are ready to ride away.&lt;/p&gt;&#xA;&lt;p&gt;You can also take a look at our range of bikes being made ready for sale, at our workshop.&lt;/p&gt;&#xA;&lt;p&gt;Tumeke is open 12-4pm on Sundays. Come and see us for a test ride, or contact &lt;a href=&#34;mailto:hello@tumekecyclespace.org.nz&#34;&gt;hello@tumekecyclespace.org.nz&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FAQ</title>
+      <link>http://localhost:1313/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/faq/</guid>
+      <description>&lt;h1 id=&#34;frequently-asked-questions&#34;&gt;Frequently Asked Questions&lt;/h1&gt;&#xA;&lt;h5 id=&#34;what-is-tumeke-cycle-space&#34;&gt;What is Tumeke Cycle Space?&lt;/h5&gt;&#xA;&lt;p&gt;We’re a volunteer- run community bike workshop in the lovely suburb of Sandringham in central Tamaki Makaurau, Auckland. We’re not a professional bike repair shop – we have tools and expertise to help with lots of things, but we can’t do everything (please don’t come with your hydraulic brakes to repair!). As part of coming to Tumeke, you get to do the repair yourself, learning more about how your bike works and giving you the skills and confidence to fix things on your own.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Newsletter</title>
+      <link>http://localhost:1313/newsletter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/newsletter/</guid>
+      <description>&lt;h1 id=&#34;subscribe-to-our-newsletter&#34;&gt;Subscribe to Our Newsletter&lt;/h1&gt;&#xA;&lt;p&gt;Stay updated with our latest news&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Upcoming Events</title>
+      <link>http://localhost:1313/upcoming-events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/upcoming-events/</guid>
+      <description>&lt;h1 id=&#34;upcoming-events&#34;&gt;Upcoming Events&lt;/h1&gt;&#xA;&lt;h5 id=&#34;drop-in-weekly-sunday-workshop&#34;&gt;Drop-in weekly Sunday workshop&lt;/h5&gt;&#xA;&lt;p&gt;Our Sunday community workshop is open from 12-4pm, most weekends (not on public holidays – check our Facebook for updates).&lt;/p&gt;&#xA;&lt;p&gt;We have tools and expertise to help with lots of things, but we can’t do everything. As part of coming to Tumeke, you get to do the repair yourself, learning more about how your bike works and giving you the skills and confidence to fix things on your own.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Volunteering</title>
+      <link>http://localhost:1313/volunteering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/volunteering/</guid>
+      <description>&lt;h1 id=&#34;volunteer-with-us&#34;&gt;Volunteer With Us&lt;/h1&gt;&#xA;&lt;p&gt;We’re always looking for new volunteers. If you’re looking for a way to contribute to Auckland’s cycling community, to learn more about how to fix your bike, and to meet some nice people, get in touch!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
